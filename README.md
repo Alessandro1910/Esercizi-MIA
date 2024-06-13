@@ -1,1 +1,2 @@
-# Esercizi-MIA
+# MiaTech
+Raccolta esercizi
