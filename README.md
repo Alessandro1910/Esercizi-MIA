@@ -1,2 +1,0 @@
-# MiaTech
-Raccolta esercizi
